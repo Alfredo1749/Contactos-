@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agenda de Contactos con Acceso Aleatorio
 
 Laboratorio No. 2 - Manejo de archivos (Python + PyQt5).
@@ -48,3 +49,6 @@ Cada campo se rellena con espacios hasta su largo. Posición de un registro = `n
 - **Errores:** archivos faltantes, corruptos o sin permisos se avisan sin cerrar la app.
 
 El panel inferior de la ventana muestra cada `seek()` y `tell()` realizado.
+=======
+# Contactos-
+>>>>>>> a198479427ac6ef9613546ff29c9f07d546a5dfe
